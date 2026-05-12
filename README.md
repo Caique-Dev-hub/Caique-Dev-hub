@@ -89,16 +89,6 @@ Plataforma para cadastro de candidatos, empresas, recrutadores, vagas e candidat
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-![Caique GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caique-Dev-hub&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Dev-hub&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## Objetivo
