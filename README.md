@@ -51,37 +51,6 @@ Atualmente participo do desenvolvimento de projetos internos e sistemas web, atu
 
 ---
 
-## Projetos em destaque
-
-###  Plataforma Educacional PHP
-
-Sistema web para gerenciamento de alunos, módulos, aulas, progresso e painel administrativo.
-
-**Tecnologias:** PHP, MySQL, JavaScript, HTML, CSS
-
-**Status:** Em desenvolvimento
-
----
-
-###  Sistema de BPO Financeiro
-
-Sistema voltado para organização de processos administrativos e financeiros, com telas internas e funcionalidades de apoio operacional.
-
-**Tecnologias:** PHP, MySQL, JavaScript, HTML, CSS
-
-**Status:** Em desenvolvimento
-
----
-
-### Plataforma de Vagas
-
-Plataforma para cadastro de candidatos, empresas, recrutadores, vagas e candidaturas.
-
-**Tecnologias:** PHP, MySQL, JavaScript, APIs REST, HTML, CSS
-
-**Status:** Em desenvolvimento
-
-
 ## Formação técnica
 
 - **Técnico em Informática para Internet** — Senac, concluído em 2025
