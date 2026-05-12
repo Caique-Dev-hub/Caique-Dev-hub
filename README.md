@@ -54,7 +54,7 @@ Atualmente participo do desenvolvimento de projetos internos e sistemas web, atu
 ## Formação técnica
 
 - **Técnico em Informática para Internet** — Senac, concluído em 2025
-- **Inglês 1, 2 e 3** — Senac
+- **Inglês 1, 2 e 3** — Senac, concluído em 2025
 
 ---
 
